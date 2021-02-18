@@ -1,6 +1,6 @@
-# nivers
+# Nivers
 
-A new Flutter project.
+Um app simples demais, que te notifica quando um contato seu estiver perto de fazer aniversário.
 
 ## Getting Started
 
